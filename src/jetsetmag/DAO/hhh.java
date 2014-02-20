@@ -10,4 +10,5 @@ package jetsetmag.DAO;
  */
 public class hhh {
     String conflit;
+    int a;
 }
